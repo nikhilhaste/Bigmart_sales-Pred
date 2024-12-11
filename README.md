@@ -1,4 +1,5 @@
 INTRODUCTION
+
 Big Mart is a big supermarket chain, with stores all around the country and its current
 board set out a challenge to all Data Scientist out there to help them create a model that
 can predict the sales, per product, for each store to give accurate results. Big Mart has
